@@ -2,6 +2,7 @@
 Huffman algorithm for decoding &amp; encoding files using c++
 
 **** NOTE ****
+
 **First Part**
 ~ the program gets the name of input file fro decodingthe file to zip.txt file which is in a binary format.
 ~ it also make the huffman.txt file.
