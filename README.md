@@ -3,11 +3,15 @@ Huffman algorithm for decoding &amp; encoding files using c++
 
 **** NOTE ****
 
+
 **First Part**
+
 ~ the program gets the name of input file fro decodingthe file to zip.txt file which is in a binary format.
 ~ it also make the huffman.txt file.
 
+
 **Second Part**
+
 ~ for encoding, it opens files zip.txt and huffman.txt automatically and unzip the zip.txt file to restore_input.txt file.
 
 ** for making the zip.txt file, i wrote each letter's code and finally added some zeros to the end of the file
